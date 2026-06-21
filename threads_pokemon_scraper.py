@@ -27,7 +27,7 @@ except AttributeError:
 
 # --- 全局常數設定 ---
 TARGET_URL = "https://www.threads.net/@jchannelzz?hl=zh-tw"
-OUTPUT_DIR = "POKEINFO"
+OUTPUT_DIR = r"D:\Program Files\Google Drive\POKEINFO"
 LOG_FILE = "crawl_log.json"
 HISTORY_FILE = "crawl_history.txt"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
